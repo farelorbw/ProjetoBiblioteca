@@ -20,6 +20,7 @@ namespace Biblioteca.Controllers
         }
 
         public IActionResult Index()
+
         {
             Autenticacao.CheckLogin(this);
             return View();
@@ -33,7 +34,7 @@ namespace Biblioteca.Controllers
         [HttpPost]
         public IActionResult Login(string login, string senha)
         {
-            if(login != "admin" || senha != "123")
+            if (login != "admin" || senha != "123")
             {
                 ViewData["Erro"] = "Senha inválida";
                 return View();
