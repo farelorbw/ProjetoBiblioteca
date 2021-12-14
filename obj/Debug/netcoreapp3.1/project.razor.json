@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Usuarios\\RegistrarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\RegistrarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
       "TargetPath": "Views\\Livro\\Cadastro.cshtml",
       "FileKind": "mvc"
@@ -14427,8 +14432,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Usuarios\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\ExcluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Usuarios\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\ListaDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Usuarios\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuarios\\NeedAdmin.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14462,6 +14482,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Usuarios\\CadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuarios\\CadastroRealizado.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14469,6 +14494,11 @@
     {
       "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\farel\\Desktop\\SENAC\\UC-07\\Atividade1\\Biblioteca\\Views\\Usuarios\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\EditarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
